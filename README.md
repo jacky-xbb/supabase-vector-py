@@ -2,6 +2,8 @@
 
 This project demonstrates how to use LangChain and Supabase to create a vector store for Documents using OpenAI embeddings. The text data is split into manageable chunks and stored in Supabase for efficient retrieval.
 
+![flowchart](https://raw.githubusercontent.com/jacky-xbb/pics/main/uPic/rUPjZT.png)
+
 ## Prerequisites
 
 - Python 3.12
